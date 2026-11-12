@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Eho</title>
+    <link>https://raw.githubusercontent.com/stankela16/eho-releases/main/appcast.xml</link>
+    <description>Ažuriranja za Eho</description>
+    <language>sr</language>
+  </channel>
+</rss>
